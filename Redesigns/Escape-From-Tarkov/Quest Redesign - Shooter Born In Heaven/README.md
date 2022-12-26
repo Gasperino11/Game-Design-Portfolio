@@ -46,4 +46,5 @@ There have already been several changes to the distance but maybe the distance s
 
 ## References 
 1: https://escapefromtarkov.fandom.com/wiki/A_Shooter_Born_in_Heaven
+
 2: https://www.reddit.com/r/EscapefromTarkov/comments/r89ng3/with_the_release_of_lighthouse_looming_lets_talk/
